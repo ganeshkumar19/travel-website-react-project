@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/travel-website-react-project/static/css/main.c69ae8b1.css",
+    "main.js": "/travel-website-react-project/static/js/main.5a68e057.js",
+    "static/js/787.397fec01.chunk.js": "/travel-website-react-project/static/js/787.397fec01.chunk.js",
+    "static/media/neom-LiDZooBvzt0-unsplash.jpg": "/travel-website-react-project/static/media/neom-LiDZooBvzt0-unsplash.65db7a507e314311cbc6.jpg",
+    "static/media/brady-stoeltzing-m8oAzXoedho-unsplash.jpg": "/travel-website-react-project/static/media/brady-stoeltzing-m8oAzXoedho-unsplash.db6c8b7f94a0342b1bb3.jpg",
+    "static/media/mugi-jo-RwuxX4ARaWM-unsplash.jpg": "/travel-website-react-project/static/media/mugi-jo-RwuxX4ARaWM-unsplash.a7a1513e4f1cf2183e8a.jpg",
+    "static/media/chaitanya-rayampally-XhYP3T-telg-unsplash.jpg": "/travel-website-react-project/static/media/chaitanya-rayampally-XhYP3T-telg-unsplash.a8ee4041aeb004dcf5ee.jpg",
+    "static/media/barry-li-sihe8Guf9ts-unsplash.jpg": "/travel-website-react-project/static/media/barry-li-sihe8Guf9ts-unsplash.59a14ec7bbf5d861e115.jpg",
+    "static/media/ryan-geller-Fc_y1til6Zw-unsplash.jpg": "/travel-website-react-project/static/media/ryan-geller-Fc_y1til6Zw-unsplash.182145258e135790e3ed.jpg",
+    "static/media/erik-odiin-jbQvJx2EWnU-unsplash.jpg": "/travel-website-react-project/static/media/erik-odiin-jbQvJx2EWnU-unsplash.19b65753f617746b3aa5.jpg",
+    "static/media/hugues-de-buyer-mimeure-oDcbtrD3Rrc-unsplash.jpg": "/travel-website-react-project/static/media/hugues-de-buyer-mimeure-oDcbtrD3Rrc-unsplash.ea76ff6d74f6a8082484.jpg",
+    "static/media/chris-czermak-7ybKmhDTcz0-unsplash.jpg": "/travel-website-react-project/static/media/chris-czermak-7ybKmhDTcz0-unsplash.3687ea95c3359798a128.jpg",
+    "static/media/luca-bravo-zAjdgNXsMeg-unsplash.jpg": "/travel-website-react-project/static/media/luca-bravo-zAjdgNXsMeg-unsplash.9bfdbbedb5f6215dead1.jpg",
+    "static/media/petar-avramoski-I3W2Ex0IV_8-unsplash.jpg": "/travel-website-react-project/static/media/petar-avramoski-I3W2Ex0IV_8-unsplash.9d22e2835e2ef07d7f64.jpg",
+    "static/media/kam-idris-kyt0PkBSCNQ-unsplash.jpg": "/travel-website-react-project/static/media/kam-idris-kyt0PkBSCNQ-unsplash.12f1aa8e2e9106bd4c33.jpg",
+    "static/media/david-rodrigo-Fr6zexbmjmc-unsplash.jpg": "/travel-website-react-project/static/media/david-rodrigo-Fr6zexbmjmc-unsplash.50b86d0e8f16c3462a24.jpg",
+    "static/media/robin-stickel-tzl1UCXg5Es-unsplash.jpg": "/travel-website-react-project/static/media/robin-stickel-tzl1UCXg5Es-unsplash.39463cf52e6816a5cee4.jpg",
+    "static/media/logo.svg": "/travel-website-react-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/travel-website-react-project/index.html",
+    "main.c69ae8b1.css.map": "/travel-website-react-project/static/css/main.c69ae8b1.css.map",
+    "main.5a68e057.js.map": "/travel-website-react-project/static/js/main.5a68e057.js.map",
+    "787.397fec01.chunk.js.map": "/travel-website-react-project/static/js/787.397fec01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c69ae8b1.css",
+    "static/js/main.5a68e057.js"
+  ]
+}
