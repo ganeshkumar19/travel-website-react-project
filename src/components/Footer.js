@@ -1,5 +1,5 @@
 import './FooterStyles.css'
-import { FaBars, FaBehanceSquare, FaFacebookSquare, FaInstagramSquare, FaTwitterSquare } from "react-icons/fa"
+import {FaBehanceSquare, FaFacebookSquare, FaInstagramSquare, FaTwitterSquare } from "react-icons/fa"
 
 import React from 'react'
 

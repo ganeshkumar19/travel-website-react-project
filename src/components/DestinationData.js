@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import './DestinationStyles.css'
-import destinationimg1 from '../assets/hugues-de-buyer-mimeure-oDcbtrD3Rrc-unsplash.jpg' 
-import destinationimg2 from '../assets/ryan-geller-Fc_y1til6Zw-unsplash.jpg' 
+
 
 class DestinationData extends Component {
   render() {
