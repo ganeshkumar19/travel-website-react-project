@@ -1,4 +1,4 @@
-import './HeroStyles.css'
+import '../css/HeroStyles.css'
 
 import React from 'react'
 

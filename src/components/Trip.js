@@ -1,5 +1,5 @@
 import TripData from './TripData'
-import './TripStyles.css'
+import '../css/TripStyles.css'
 import trip1 from '../assets/chris-czermak-7ybKmhDTcz0-unsplash.jpg' 
 import trip2 from '../assets/david-rodrigo-Fr6zexbmjmc-unsplash.jpg' 
 import trip3 from '../assets/barry-li-sihe8Guf9ts-unsplash.jpg' 

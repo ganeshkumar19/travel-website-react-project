@@ -3,7 +3,7 @@ import destinationimg1 from '../assets/hugues-de-buyer-mimeure-oDcbtrD3Rrc-unspl
 import destinationimg2 from '../assets/ryan-geller-Fc_y1til6Zw-unsplash.jpg' 
 import destinationimg3 from '../assets/chaitanya-rayampally-XhYP3T-telg-unsplash.jpg' 
 import destinationimg4 from '../assets/mugi-jo-RwuxX4ARaWM-unsplash.jpg' 
-import './DestinationStyles.css'
+import '../css/DestinationStyles.css'
 import DestinationData from './DestinationData'
 
 const Destination = () => {

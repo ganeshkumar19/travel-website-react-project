@@ -1,4 +1,4 @@
-import "./NavbarStyles.css"
+import "../css/NavbarStyles.css"
 import React, { Component } from 'react'
 import { FaBars } from "react-icons/fa"
 import {FaTimes} from "react-icons/fa"

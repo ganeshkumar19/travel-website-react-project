@@ -1,4 +1,4 @@
-import './TripStyles.css'
+import '../css/TripStyles.css'
 
 
 import React from 'react'

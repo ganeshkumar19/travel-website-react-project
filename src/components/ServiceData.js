@@ -1,5 +1,4 @@
-import './ServiceStyles.css'
-
+import '../css/ServiceStyles.css'
 import React from 'react'
 
 function ServiceData(props) {

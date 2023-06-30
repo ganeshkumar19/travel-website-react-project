@@ -1,5 +1,5 @@
 import ServiceData from './ServiceData'
-import './ServiceStyles.css'
+import '../css/ServiceStyles.css'
 import service1 from '../assets/robin-stickel-tzl1UCXg5Es-unsplash.jpg' 
 import service2 from '../assets/kam-idris-kyt0PkBSCNQ-unsplash.jpg' 
 import service3 from '../assets/erik-odiin-jbQvJx2EWnU-unsplash.jpg' 

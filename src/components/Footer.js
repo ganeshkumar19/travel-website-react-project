@@ -1,4 +1,4 @@
-import './FooterStyles.css'
+import '../css/FooterStyles.css'
 import {FaBehanceSquare, FaFacebookSquare, FaInstagramSquare, FaTwitterSquare } from "react-icons/fa"
 
 import React from 'react'
